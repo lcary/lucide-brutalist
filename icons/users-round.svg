@@ -6,11 +6,10 @@
   fill="none"
   stroke="currentColor"
   stroke-width="2"
-  stroke-linecap="square"
-  stroke-linejoin="miter"
+  stroke-linecap="round"
+  stroke-linejoin="round"
 >
-  <path d="M6 3 9 6 6 9 3 6Z" />
-  <path d="M2 20 6 11 10 20" />
-  <path d="M17 3 20 6 17 9 14 6Z" />
-  <path d="M13 20 17 11 21 20" />
+  <path d="M18 21a8 8 0 0 0-16 0" />
+  <circle cx="10" cy="8" r="5" />
+  <path d="M22 20c0-3.37-2-6.5-4-8a5 5 0 0 0-.45-8.3" />
 </svg>

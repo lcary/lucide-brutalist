@@ -5,10 +5,10 @@
   viewBox="0 0 24 24"
   fill="none"
   stroke="currentColor"
-  stroke-width="2"
+  stroke-width="3"
   stroke-linecap="square"
   stroke-linejoin="miter"
 >
-  <path d="M16 20V2H8v18" />
-  <rect width="20" height="14" x="2" y="6" />
+  <rect x="2" y="8" width="20" height="13" />
+  <path d="M8 8V3h8v5" />
 </svg>
