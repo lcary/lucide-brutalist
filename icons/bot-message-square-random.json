@@ -1,0 +1,7 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": ["lcary"],
+  "use-cases": ["matchmaking", "random agent", "quick match"],
+  "tags": ["robot", "ai", "chat", "assistant", "random", "shuffle", "unknown", "question"],
+  "categories": ["development", "social"]
+}

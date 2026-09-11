@@ -1,0 +1,7 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": ["lcary"],
+  "use-cases": ["matchmaking", "random opponent", "quick match"],
+  "tags": ["person", "account", "random", "shuffle", "unknown", "matchmaking", "question"],
+  "categories": ["account"]
+}
