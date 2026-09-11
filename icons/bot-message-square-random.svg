@@ -9,12 +9,10 @@
   stroke-linecap="square"
   stroke-linejoin="miter"
 >
-  <path d="M7 3V1H5" />
-  <path d="M2 3H13V11H8L5 14V11H2Z" />
-  <path d="M0 6H2" />
-  <path d="M13 6H15" />
-  <path d="M6 7h.01" />
-  <path d="M11 7h.01" />
-  <path d="M16 9H24V15H19V19" />
-  <path d="M19 23h.01" />
+  <path d="M6 3V1H4" />
+  <path d="M1 3H12V10H7L4 13V10H1Z" />
+  <path d="M5 6h.01" />
+  <path d="M9 6h.01" />
+  <path d="M18 10H24V14H20V17" />
+  <path d="M20 21h.01" />
 </svg>
